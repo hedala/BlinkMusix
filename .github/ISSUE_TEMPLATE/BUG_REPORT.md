@@ -3,7 +3,7 @@ name: Bug report
 about: Create a report to help us improve
 title: ''
 labels: ''
-assignees: 'TeamYukki'
+assignees: 'hedala'
 ---
 > Provide a general summary of the issue in the Title above.
 
@@ -34,6 +34,6 @@ assignees: 'TeamYukki'
 
 ## Checklist
 >  Go over all the following points, and put an `x` in all the boxes that apply.
-- [ ] I searched the [current issues](https://github.com/TeamYukki/YukkiMusicBot/issues) and the issue is not known.
+- [ ] I searched the [current issues](https://github.com/hedala/BlinkMusic/issues) and the issue is not known.
 - [ ] I searched on Google, Steam, YouTube, Reddit and there's no fix.
 - [ ] I am mostly sure that the problem is related to the project and isn't my fault.

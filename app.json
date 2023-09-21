@@ -7,7 +7,7 @@
     "telegram",
     "bot",
     "Yukki",
-    "YukkiMusicBot",
+    "BlinkMusixBot",
     "telegram-bot",
     "pyrogram"
     ],
@@ -70,7 +70,7 @@
       },
       "UPSTREAM_REPO": {
         "description": "If you dont know this, Leave as it is",
-        "value": "https://github.com/TeamYukki/YukkiMusicBot",
+        "value": "https://github.com/hedala/BlinkMusixBot",
         "required": true
       },
       "UPSTREAM_BRANCH": {
@@ -93,7 +93,7 @@
       "formation": {
           "worker": {
               "quantity": 1,
-              "size": "eco"
+              "size": "free"
           }
       }
   }
