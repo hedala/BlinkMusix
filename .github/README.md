@@ -1,5 +1,5 @@
 Bu repo frkn ve heda tarafından zaten halihazırda çalındı. Lütfen bizden çalmayınız. Şeye gidin adı neydi ııı yukki sanırım. Ha bi de şey var callmusic diye birşey o coooo guzel ama sahibi update getirmiyor. eşek yaaa. neyse neyse aklıma şimdi geldi de yukkiyi herokuda dağıtırsanız hesap kapanır hehe. bunu kullanın ama bir şartım var cappy nektarı isterim. eğer o yoksa telegramda hedala ya yaz. satranç oynayacağız beni yenersen almana izin veririm kodları. aaa anam geldi yazıyı sonlandırdım bye bye. sayanora
-
+Okay geldim anam gitti. şimdi ne diicektim heh kimetsu no yaiba izler misin?
 
 
 
