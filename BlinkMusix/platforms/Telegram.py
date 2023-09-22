@@ -147,14 +147,14 @@ class TeleAPI:
                     completed_size = convert_bytes(current)
                     speed = convert_bytes(speed)
                     text = f"""
-**{MUSIC_BOT_NAME} Telegram Media Downloader**
+**İndiriyom bekle**
 
-**Total FileSize:** {total_size}
-**Completed:** {completed_size} 
-**Percentage:** {percentage[:5]}%
+**Üff boyuta bak:** {total_size}
+**Üff şu kadar tamamlandı:** {completed_size} 
+**Sadece üff:** {percentage[:5]}%
 
-**Speed:** {speed}/s
-**ETA:** {eta}"""
+**Üff hıza bak ya canım botum:** {speed}/s
+**Üff bu kadar süre beklicen:** {eta}"""
                     try:
                         await mystic.edit_text(text, reply_markup=upl)
                     except:
