@@ -1,1 +1,0 @@
-Heya! dünya
